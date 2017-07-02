@@ -1,11 +1,9 @@
 # Credit-Card-Fraud-Detection-Parallelized-Bayesian-Network
-Machine Learning Classification Project: Credit Card Fraud Detection using Parallelized Neural Networks
-
-# Breast Cancer Tumor Classification
+## Machine Learning Classification Project: Credit Card Fraud Detection using Parallelized Neural Networks
 
 ## Table of Contents
 
-* [Project Report](https://github.com/amir-ghaderi/Breast-Cancer-Tumor-Classification/blob/master/Final%20Report.pdf) 
-* [R Code](https://github.com/amir-ghaderi/Breast-Cancer-Tumor-Classification/blob/master/R%20code.R) 
-* [Presentation Deck](https://github.com/amir-ghaderi/Breast-Cancer-Tumor-Classification/blob/master/Presentation%20Deck.pptx) 
-* [Breast Cancer Dataset](https://github.com/amir-ghaderi/Breast-Cancer-Tumor-Classification/blob/master/Breast%20Cancer%20Dataset.csv) 
+* [Project Proposal](https://github.com/amir-ghaderi/Credit-Card-Fraud-Detection-Parallelized-Bayesian-Network/blob/master/MRP%20Proposal.pdf) 
+* [Dataset](https://github.com/amir-ghaderi/Credit-Card-Fraud-Detection-Parallelized-Bayesian-Network/blob/master/Dataset) 
+* [Exploratory Data Analysis and Literature Review](https://github.com/amir-ghaderi/Credit-Card-Fraud-Detection-Parallelized-Bayesian-Network/blob/master/Exploratory%20Data%20Analysis%20and%20Literature%20Review%20.pdf) 
+* [Methodology](https://github.com/amir-ghaderi/Credit-Card-Fraud-Detection-Parallelized-Bayesian-Network/blob/master/Methodology.pdf) 
